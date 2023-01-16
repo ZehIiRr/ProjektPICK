@@ -437,6 +437,7 @@ h2 {
     flex-direction: column;
     justify-content: center;
     flex-direction: column;
+    margin-top: 1rem;
   }
   .section-three .element-1 .button {
     text-align: center;
